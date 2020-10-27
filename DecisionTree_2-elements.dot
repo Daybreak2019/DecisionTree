@@ -1,0 +1,8 @@
+digraph "DecisionTree_2-elements"{
+	label="DecisionTree_2-elements";
+	N0[color=black, label="{a1<a2}"]
+	N0 -> N1[color=blue,label="{T}"]
+	N0 -> N2[color=blue,label="{F}"]
+	N1[color=red, label="{a1<a2}"]
+	N2[color=red, label="{a2<a1}"]
+}

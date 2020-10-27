@@ -1,0 +1,4 @@
+digraph "DecisionTree_1-elements"{
+	label="DecisionTree_1-elements";
+	N0[color=red, label="{a1}"]
+}
